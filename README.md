@@ -8,7 +8,6 @@ fullstack developer with a focus on security
 **experience**
 
 - Hspace Digital Forensics LAB `25.06 ~`
-- Pay1oad 소속 및 운영진 `24.01 ~ 24.12`
 - KITRI Best of the Best 14th
 
 ---
