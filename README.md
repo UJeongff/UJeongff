@@ -19,25 +19,21 @@ fullstack developer with a focus on security
 `Next.js` `Spring Boot` `PostgreSQL` `Web Security`
 
 **[iOS Forensics Artifact Analyzer](https://github.com/UJeongff/iOS-Forensics)** · [blog](https://ojeomi-study.tistory.com/category/Project/iOS)<br>
-iOS 기기 아티팩트 분석 툴 · 기본 앱(메신저, 갤러리) 및 Instagram 아티팩트 파싱 담당.<br>
+iOS 기기 아티팩트 분석 툴 개발 · 기본 앱 및 Instagram 아티팩트 파싱 담당.<br>
 `Python` `Digital Forensics` `iOS`
 
 **Ethereum Scam Token Detection**<br>
-러그풀 · 허니팟 탐지 연구 · 동적 코드 분석 + ML(XGBoost, MIL) · 탐지 웹페이지 개발.<br>
+러그풀 · 허니팟 탐지 연구 — 동적 코드 분석 + ML(XGBoost, MIL), 탐지 웹페이지 풀스택 개발.<br>
 `Python` `XGBoost` `React` `Django` `Blockchain`
 
 ---
 
 **stack**
 
-frontend · `React` `Next.js` `React Native`
-
-backend · `Node.js` `Django` `Spring Boot` `PostgreSQL` `MySQL`
-
-infra · `Docker` `AWS EC2` `Linux`
-
-security · `Digital Forensics` `Web Security`
-
+frontend · `React` `Next.js` `React Native`<br>
+backend · `Node.js` `Django` `Spring Boot` `PostgreSQL` `MySQL`<br>
+infra · `Docker` `AWS EC2` `Linux`<br>
+security · `Digital Forensics` `Web Security`<br>
 language · `TypeScript` `Python` `C`
 
 ---
