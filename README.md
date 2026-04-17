@@ -7,8 +7,8 @@ fullstack developer with a focus on security
 
 **experience**
 
-- Hspace Digital Forensics LAB `25.06 ~`
-- KITRI Best of the Best 14th
+- Hspace Digital Forensics LAB 
+- KITRI Best of the Best 14th 
 
 ---
 
@@ -18,7 +18,7 @@ fullstack developer with a focus on security
 풀스택 개발 · 베타 공개 후 피드백 반영, 웹해킹 사례 분석 및 보안 적용. 권한 분리, 인증 구조 설계.<br>
 `Next.js` `Spring Boot` `PostgreSQL` `Web Security`
 
-**[iOS Forensics Artifact Analyzer](https://github.com/UJeongff/iOS-Forensics)** · [blog](https://ojeomi-study.tistory.com/category/Project/iOS)<br>
+**[iOS Forensics Artifact Analyzer](https://github.com/UJeongff/iOS-Forensics)** · [→ blog](https://ojeomi-study.tistory.com/category/Project/iOS)<br>
 iOS 기기 아티팩트 분석 툴 개발 · 기본 앱 및 Instagram 아티팩트 파싱 담당.<br>
 `Python` `Digital Forensics` `iOS`
 
