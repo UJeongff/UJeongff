@@ -1,20 +1,3 @@
-## Hi there 👋
-
-<!--
-**UJeongff/UJeongff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### hi, i'm jeomi 👋
 fullstack developer with a focus on security
 
@@ -48,11 +31,11 @@ iOS 기기 아티팩트 분석 툴 · 기본 앱(메신저, 갤러리) 및 Insta
 
 **stack**
 
-frontend · `React` `Next.js` `React Native`
-backend  · `Node.js` `Django` `Spring Boot` `PostgreSQL` `MySQL`
-infra    · `Docker` `AWS EC2` `Linux`
-security · `Digital Forensics` `Web Security`
-language · `Python` `C`
+frontend &nbsp;·&nbsp; `React` `Next.js` `React Native`
+backend &nbsp;·&nbsp; `Node.js` `Django` `Spring Boot` `PostgreSQL` `MySQL`
+infra &nbsp;·&nbsp; `Docker` `AWS EC2` `Linux`
+security &nbsp;·&nbsp; `Digital Forensics` `Web Security`
+language &nbsp;·&nbsp; `TypeScript` `Python` `C`
 
 ---
 
