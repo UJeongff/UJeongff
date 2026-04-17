@@ -51,7 +51,7 @@ iOS 기기 아티팩트 분석 툴 · 기본 앱(메신저, 갤러리) 및 Insta
 frontend · `React` `Next.js` `React Native`
 backend  · `Node.js` `Django` `Spring Boot` `PostgreSQL` `MySQL`
 infra    · `Docker` `AWS EC2` `Linux`
-security · `Digital Forensics` 
+security · `Digital Forensics` `Web Security`
 language · `Python` `C`
 
 ---
