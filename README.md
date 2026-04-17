@@ -14,7 +14,7 @@ fullstack developer with a focus on security
 
 **featured projects**
 
-**[Pay1oad 동아리 웹페이지](https://github.com/UJeongff/Pay1oad-DEV_front)** · backend private<br>
+**[Pay1oad 동아리 웹페이지](https://github.com/UJeongff/Pay1oad-DEV_front)** <sup>backend private</sup><br>
 풀스택 개발 · 베타 공개 후 피드백 반영, 웹해킹 사례 분석 및 보안 적용. 권한 분리, 인증 구조 설계.<br>
 `Next.js` `Spring Boot` `PostgreSQL` `Web Security`
 
@@ -22,7 +22,7 @@ fullstack developer with a focus on security
 러그풀 · 허니팟 탐지 연구 — 동적 코드 분석 + ML(XGBoost, MIL), 탐지 웹페이지 풀스택 개발.<br>
 `Python` `XGBoost` `React` `Django` `Blockchain`
 
-**[iOS Forensics Artifact Analyzer](https://github.com/UJeongff/iOS-Forensics)** · [→ blog](https://ojeomi-study.tistory.com/category/Project/iOS)<br>
+**[iOS Forensics Artifact Analyzer](https://github.com/UJeongff/iOS-Forensics)** <sup>[→ blog](https://ojeomi-study.tistory.com/category/Project/iOS)</sup><br>
 iOS 기기 아티팩트 분석 툴 개발 · 기본 앱 및 Instagram 아티팩트 파싱 담당.<br>
 `Python` `Digital Forensics` `iOS`
 
