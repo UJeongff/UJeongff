@@ -8,7 +8,7 @@ fullstack developer with a focus on security
 **experience**
 
 - Hspace Digital Forensics LAB 
-- KITRI Best of the Best 14th 
+- KISA Best of the Best 14th 
 
 ---
 
