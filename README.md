@@ -42,5 +42,3 @@ language · `TypeScript` `Python` `C`
 
 [![blog](https://img.shields.io/badge/blog-000?style=flat-square)](https://ojeomi-study.tistory.com/)
 [![email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeomi364@gmail.com)
-
-![stats](https://github-readme-stats.vercel.app/api?username=UJeongff&show_icons=true&theme=default&hide_border=true&hide_title=true)
