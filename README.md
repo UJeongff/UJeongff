@@ -14,9 +14,9 @@ fullstack developer with a focus on security
 
 **featured projects**
 
-**Pay1oad 동아리 웹페이지** [ [frontend](https://github.com/UJeongff/Pay1oad-DEV_front) | <sup>backend private</sup> ]<br> 
-https://www.pay1oad.xyz/<br> 
-풀스택 개발 · 베타 공개 후 피드백 반영. 권한 분리 · 인증 구조 설계. 웹해킹 사례 분석 및 보안 적용.<br> 
+**[Pay1oad 동아리 웹페이지 개발 및 보안 적용]** [ [frontend](https://github.com/UJeongff/Pay1oad-DEV_front) | <sup>backend private</sup> ] <sup>[→ blog](https://ojeomi-study.tistory.com/category/Project/Web)</sup><br>
+https://www.pay1oad.xyz/<br>
+풀스택 개발 · 베타 공개 후 피드백 반영. 권한 분리 · 인증 구조 설계. 웹 해킹 사례 조사 후 실제 서비스 취약점 발견 및 코드 보완.<br>
 `Next.js` `Spring Boot` `PostgreSQL` `Web Security`
 
 **Ethereum Scam Token Detection**<br>
