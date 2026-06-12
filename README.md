@@ -1,4 +1,4 @@
-### hi, i'm jeomi 👋
+### hi, i'm UJoeng 👋
 fullstack developer with a focus on security
 
 컴퓨터공학과 / 스마트보안학과 (복수전공)
